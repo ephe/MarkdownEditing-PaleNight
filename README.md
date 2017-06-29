@@ -4,4 +4,4 @@ Source adapted from the ArcDark theme packaged with MarkdownEditing, which I lik
 
 Borrowing avivace's awesome demo file (see it and his cool Monokai theme [here](https://github.com/avivace/monokaiC)) for an example screenshot:
 
-![alt text](https://raw.githubusercontent.com/ephe/MarkdownEditing-PaleNight/master/example.png "Rough example")
+![theme example](https://raw.githubusercontent.com/ephe/MarkdownEditing-PaleNight/master/example2.png "Example screenshot with common Markdown tags, shown with Material Theme.")
